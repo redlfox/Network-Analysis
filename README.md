@@ -2,10 +2,19 @@
 
 ## HTTP/2
 
+### FOSS
 A great tool to inspect HTTP/2 frames of real-world connections is
 [Wireshark](https://www.wireshark.org).
 
 https://github.com/ProxymanApp/proxyman-windows-linux
+
+### Paid
+
+#### Fiddler
+- [官方文档](https://www.telerik.com/fiddler)
+
+#### Charles
+- [官方文档](https://www.charlesproxy.com)
 
 ### HTTPS
 
