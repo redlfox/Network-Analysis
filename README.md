@@ -6,7 +6,7 @@
 A great tool to inspect HTTP/2 frames of real-world connections is
 [Wireshark](https://www.wireshark.org).
 
-https://github.com/ProxymanApp/proxyman-windows-linux
+https://github.com/ProxymanApp/proxyman-windows-linux https://proxyman.com/download
 
 ### Paid
 
