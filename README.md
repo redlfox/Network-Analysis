@@ -5,6 +5,8 @@
 A great tool to inspect HTTP/2 frames of real-world connections is
 [Wireshark](https://www.wireshark.org).
 
+https://github.com/ProxymanApp/proxyman-windows-linux
+
 ### HTTPS
 
 To see the traffic in Wireshark, some clients can be configured to dump an
