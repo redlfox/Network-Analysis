@@ -28,3 +28,5 @@ might be fixed when they [add HTTP/2 support](https://github.com/droe/sslsplit/i
 the plaintext traffic in Wireshark: you can set its `InterceptorPort` to
 the same value as the `ReturnPort` and then sniff the loopback interface and
 filter on that port.
+
+tcpdump
