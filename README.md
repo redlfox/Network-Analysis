@@ -12,6 +12,8 @@ To see the traffic in Wireshark, some clients can be configured to dump an
 [can use](https://wiki.wireshark.org/TLS#Using_the_.28Pre.29-Master-Secret)
 to decrypt the traffic.
 
+* [neykov/extract-tls-secrets - Decrypt HTTPS/TLS connections on the fly with Wireshark - 支持TLSv1.3](https://github.com/neykov/extract-tls-secrets/)
+
 [mitmproxy](https://mitmproxy.org) is a nice tool to inspect HTTPS traffic,
 and supports dumping the SSLKEYLOGFILE. However, since it 'understands' HTTP,
 it might not be 'transparent' enough: especially when diagnosing protocol
